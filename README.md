@@ -21,7 +21,7 @@ The following **stretch** features are implemented:
    - ...
 
 
-
+<a href="https://imgflip.com/gif/2f79b5"><img src="https://i.imgflip.com/2f79b5.gif" title="made at imgflip.com"/></a>
 
 ## License
 
