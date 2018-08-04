@@ -35,7 +35,6 @@ class DetailViewController: UIViewController {
             let BaseURL = "https://image.tmdb.org/t/p/w500"
             let backdropURL = URL(string: BaseURL + backdroppath)!
             BackDropImage.af_setImage(withURL: backdropURL)
-            
             let poserpathURL = URL(string: BaseURL + posterpath)!
             PosterImage.af_setImage(withURL: poserpathURL)
         }
